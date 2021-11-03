@@ -10,7 +10,7 @@ All you have to do is double click `index.html` and it does the rest! To randoml
 Sure! However, you will need some basic programming knowledge. 
 
 Instructions:
-- Open `index.jx`
+- Open `index.js`
 - Locate at the top a constant variable called `questions`
 - At the start add a new element like so `['Your question goes here!', 'Most likely to cry over a boy/girl?', etc]`
 - That's it! Refresh the website and your question might randomly be selected
